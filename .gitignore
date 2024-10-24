@@ -17,6 +17,8 @@
 .cache/
 
 # Ignore other common files and folders
+.cache
+.config
 *.pyc
 __pycache__/
 *.log
